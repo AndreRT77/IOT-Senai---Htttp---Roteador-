@@ -1,6 +1,6 @@
 # IOT-Senai---Htttp---Roteador-
 
-# Projeto com Esp32, utilizando requisição via http, e roteamentp
+# Projeto com Esp32, utilizando requisição via http, e roteamento
 
 ## Vídeo
 https://youtube.com/shorts/PgKiCesgYIE?feature=share
